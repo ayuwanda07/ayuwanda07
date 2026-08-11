@@ -29,5 +29,5 @@
 
 ## 📈 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayuwanda07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayuwanda07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </div>
