@@ -1,18 +1,29 @@
 <div align="center">
-  <!-- Banner Immersive -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ayu%20Wanda%20Azalia&fontSize=60&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descAlign=60" alt="Wanda Banner" width="100%" />
+  <!-- Banner Waving -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffb6c1,ff69b4&height=250&section=header&text=Ayu%20Wanda%20Azalia&fontSize=60&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descAlign=60&fontColor=ffffff" alt="Wanda Banner" width="100%" />
 
+  <br><br>
+  
+  <!-- Tagline Animasi -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Crafting+modern+full-stack+web+solutions+💻;Exploring+the+frontier+of+Computer+Vision+AI+👁️;Let's+build+something+amazing+together!+🚀" alt="Typing Text" />
+  
   <br><br>
   
   <h3>
     Crafting modern full-stack web solutions and exploring the frontier of computer vision AI.
   </h3>
   
-  <p align="center">
-    <a href="https://ayuwandaaz.vercel.app/" target="_blank">Portfolio</a> •
-    <a href="mailto:emailkamu@gmail.com">Email Me</a> •
-    <a href="https://linkedin.com/in/username-linkedin-kamu" target="_blank">LinkedIn</a>
-  </p>
+<p align="center">
+  <a href="https://ayuwandaaz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:wanda.azalia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ayuwandaaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 </div>
 
 ---
@@ -25,7 +36,7 @@ I'm a Software Engineer who thrives at the intersection of robust web developmen
 - 🚀 **Impact:** Actively contributed as a developer to **Mealty**, an agile-based mobile application successfully launched on the Play Store with hundreds of active users.
 - 🔬 **Research:** Deeply interested in AI, specifically designing and executing deep learning testing protocols using architectures like the Swin Transformer on the Digital Hand Atlas dataset.
 - 🏅 **Certification:** Officially certified as a Software Quality Control Tester by the Indonesian National Board for Professional Certification (BNSP).
-- 🎓 **Goals:** Continuously expanding my technical expertise while preparing for international S2 master's degree opportunities.
+- 🎓 **Goals:** Continuously expanding my technical expertise not just ini software development but in data analyst.
 
 ---
 
@@ -35,7 +46,7 @@ I'm a Software Engineer who thrives at the intersection of robust web developmen
   
   **Languages & Frontend**<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Setup" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vuejs,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Setup" />
   </a>
   
   <br><br>
@@ -63,40 +74,44 @@ I'm a Software Engineer who thrives at the intersection of robust web developmen
     <td width="50%" valign="top">
       <h3 align="center">📱 Mealty Mobile App</h3>
       <br />
-      <!-- Ganti link gambar di bawah dengan screenshot project aslimu -->
-      <p align="center"><img src="https://via.placeholder.com/400x225/20232A/61DAFB?text=Mealty+App+Preview" alt="Mealty App" width="100%"></p>
-      <br />
       <p>A mobile application built with agile methodologies, successfully deployed to production and serving over 200 active users. Focused on seamless user experience and performance.</p>
-      <p><strong>Stack:</strong> React Native, Node.js</p>
+      <p><strong>Stack:</strong> React JS, Laravel, Flutter</p>
+      <br />
+      <p align="center">
+        <a href="https://mealty.agileteknik.com/" target="_blank"><strong>🔗 View Project</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌊 Government Workflow Portal</h3>
       <br />
-      <!-- Ganti link gambar di bawah dengan screenshot project aslimu -->
-      <p align="center"><img src="https://via.placeholder.com/400x225/FF2D20/FFFFFF?text=MVC+Laravel+Portal" alt="Laravel Portal" width="100%"></p>
-      <br />
-      <p>A dedicated digital portal engineered to streamline and manage internal administrative workflows for a maritime government agency.</p>
+       <p>A dedicated digital portal engineered to streamline and manage internal administrative workflows for a maritime government agency.</p>
       <p><strong>Stack:</strong> Laravel, PHP, MySQL, Tailwind CSS</p>
+      <br />
+      <p align="center">
+        <a href="https://github.com/ayuwanda07/internship_portal" target="_blank"><strong>🔗 View Project</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">👁️ Swin Transformer CV Model</h3>
       <br />
-      <!-- Ganti link gambar di bawah dengan screenshot project aslimu -->
-      <p align="center"><img src="https://via.placeholder.com/400x225/3776AB/FFFFFF?text=Computer+Vision+Research" alt="CV Research" width="100%"></p>
-      <br />
-      <p>Executed deep learning model testing protocols utilizing the Digital Hand Atlas dataset to evaluate the generalization capabilities of the Swin Tiny architecture across demographics.</p>
+      <p>Executed deep learning model testing protocols utilizing the Digital Hand Atlas dataset to evaluate the generalization capabilities of the Swin Tiny     architecture across demographics.</p>
       <p><strong>Stack:</strong> Python, PyTorch, OpenCV</p>
+            <br />
+      <p align="center">
+        <a href="https://github.com/ayuwanda07/boneage_predict" target="_blank"><strong>🔗 View Project</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Commercial Web Platform</h3>
-      <br />
-      <!-- Ganti link gambar di bawah dengan screenshot project aslimu -->
-      <p align="center"><img src="https://via.placeholder.com/400x225/000000/FFFFFF?text=Commercial+Web+Dev" alt="Commercial Web" width="100%"></p>
+      <h3 align="center">💼 Commercial Web Platform</h3> 
       <br />
       <p>Served as Project Manager and Head of QA for a high-value corporate web development contract, establishing team structure, scope, and delivering a robust final product.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, API Integration</p>
+      <p><strong>Stack:</strong> Laravel, Tailwind CSS, TypeScript, API Integration</p>
+                  <br />
+      <p align="center">
+        <a href="https://toko.bintangkarya.co.id/" target="_blank"><strong>🔗 View Project</strong></a>
+      </p>
     </td>
   </tr>
 </table>
