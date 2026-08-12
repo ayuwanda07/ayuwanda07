@@ -67,55 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Mealty Mobile App</h3>
-      <br />
-      <p>A mobile application built with agile methodologies, successfully deployed to production and serving over 200 active users. Focused on seamless user experience and performance.</p>
-      <p><strong>Stack:</strong> React JS, Laravel, Flutter</p>
-      <br />
-      <p align="center">
-        <a href="https://mealty.agileteknik.com/" target="_blank"><strong>🔗 View Project</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 Government Workflow Portal</h3>
-      <br />
-       <p>A dedicated digital portal engineered to streamline and manage internal administrative workflows for a maritime government agency.</p>
-      <p><strong>Stack:</strong> Laravel, PHP, MySQL, Tailwind CSS</p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/ayuwanda07/internship_portal" target="_blank"><strong>🔗 View Project</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ Swin Transformer CV Model</h3>
-      <br />
-      <p>Executed deep learning model testing protocols utilizing the Digital Hand Atlas dataset to evaluate the generalization capabilities of the Swin Tiny architecture across demographics.</p>
-      <p><strong>Stack:</strong> Python, PyTorch, OpenCV</p>
-      <br />
-      <p align="center">
-        <a href="https://github.com/ayuwanda07/boneage_predict" target="_blank"><strong>🔗 View Project</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Commercial Web Platform</h3> 
-      <br />
-      <p>Served as Project Manager and Head of QA for a high-value corporate web development contract, establishing team structure, scope, and delivering a robust final product.</p>
-      <p><strong>Stack:</strong> Laravel, Tailwind CSS, TypeScript, API Integration</p>
-      <br />
-      <p align="center">
-        <a href="https://toko.bintangkarya.co.id/" target="_blank"><strong>🔗 View Project</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 <br>
 <div align="center">
   <i>Let's build something amazing together! 🚀</i>
