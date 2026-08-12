@@ -40,10 +40,6 @@
     "AWS Educate: Security (AWS)",
     "Full-stack Development with Laravel 11 (Codepolitan)"
   ],
-  "metrics": {
-    "mealty_app_users": "100+ Active Users",
-    "academic_gpa": "3.83 / 4.00"
-  }
 }
 ```
 ---
