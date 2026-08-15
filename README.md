@@ -26,7 +26,6 @@
 
 ```json
 {
-  "name": "Ayu Wanda Azalia",
   "role": "Full-stack & Software Engineer",
   "education": "B.A.Sc (D4) in Informatics Engineering, PENS",
   "focus": [
