@@ -36,7 +36,7 @@
     "Python Essentials 1 (Cisco)",
     "Software Quality Control Tester (BNSP)",
     "CCNA: Switching, Routing, and Wireless Essentials (Cisco)",
-    "AWS Educate: Security (AWS)",
+    "AWS Educate: Security (AWS), Networking",
     "Full-stack Development with Laravel 11 (Codepolitan)"
   ],
 }
