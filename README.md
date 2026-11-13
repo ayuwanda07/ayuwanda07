@@ -3,21 +3,6 @@
 <h1 align="center">Hi there, I'm Wanda! 👋</h1>
 <h3 align="center">Software Engineer building applications & exploring AI</h3>
   <!-- Tagline Animasi -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Crafting+modern+full-stack+web+solutions;Exploring+the+frontier+of+Computer+Vision+AI;Let's+build+something+amazing+together!" alt="Typing Text" />
-  
-  <p align="center">
-    <a href="https://ayuwandaaz.vercel.app/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:wanda.azalia@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ayuwandaaz" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
 
 ---
